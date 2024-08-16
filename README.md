@@ -12,5 +12,5 @@ Website Link-
 - Views: To handle business logic and user requests
 - Templates: For rendering HTML pages with Django Template Language (DTL)
 - Admin: Django’s built-in admin panel for managing the shop
-
-
+## Paymet Gateway
+- Razorpay API
