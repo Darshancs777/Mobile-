@@ -5,5 +5,12 @@ Website Link-
 # Technical Description
 ## Frontend:
 - HTML/CSS: For the structure and styling of pages
+- JavaScript: For dynamic functionalities like adding items to the cart without reloading the page
+- Bootstrap: For responsive design.
+## Backend: Django Framework
+- Models: To define products, categories, customers, and orders
+- Views: To handle business logic and user requests
+- Templates: For rendering HTML pages with Django Template Language (DTL)
+- Admin: Django’s built-in admin panel for managing the shop
 
 
